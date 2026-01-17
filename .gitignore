@@ -24,4 +24,5 @@ test/
 tmc/
 .tmcproject.json
 .tmc/
+part*/
 __pycache__/
