@@ -1,0 +1,25 @@
+# --- Existing "Weeds" ---
+points.py
+tmc_utils.py
+result.py
+reflect.py
+runner.py
+django.py
+__pycache__/
+*.pyc
+
+# --- Environment & OS (Crucial) ---
+.venv/
+venv/
+env/
+.env
+.DS_Store
+Thumbs.db
+
+# --- Distribution / Data ---
+*.log
+*.sqlite3
+
+test/
+tmc/
+__pycache__/
