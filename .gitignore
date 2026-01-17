@@ -22,4 +22,6 @@ Thumbs.db
 
 test/
 tmc/
+.tmcproject.json
+.tmc/
 __pycache__/
