@@ -10,6 +10,9 @@ This respository contains my progress through the University of Helsinki's Pytho
 * **[next_leap_year.py](./Portfolio/next_leap_year.py)** - While loop testing Boolean conditions with nested conditionals
 * **[data_processor.py](./Portfolio/data_processor.py)** - Use of while loop to
 take and convert user input to data with error prevention
+* **[ui_frame_generator.py](./Portfolio/ui_frame_generator.py)** - Creates a frame
+around a user-inputted string printed
+in the center of the frame
 
 ## Tech & Tools
 * **Language:** Python 3.x
