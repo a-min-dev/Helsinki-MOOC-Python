@@ -13,6 +13,8 @@ take and convert user input to data with error prevention
 * **[ui_frame_generator.py](./Portfolio/ui_frame_generator.py)** - Creates a frame
 around a user-inputted string printed
 in the center of the frame
+* **[substring_extractor.py](./Portfolio/substring_extractor.py)** - Finds all substrings of length 3 that start with a
+user-provided character in a user-provided word
 
 ## Tech & Tools
 * **Language:** Python 3.x
