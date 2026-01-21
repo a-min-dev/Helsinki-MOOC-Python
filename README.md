@@ -18,6 +18,8 @@ user-provided character in a user-provided word
 * **[find_second_occurrence.py](./Portfolio/find_second_occurrence.py)** - Finds the second occurrence of a
 user-provided substring in a user-provided word and outputs
 the index of the start of the second substring
+* **[chessboard.py](./Portfolio/chessboard.py)** - The chessboard function
+prints out alternating rows of 0s and 1s
 
 ## Tech & Tools
 * **Language:** Python 3.x
