@@ -20,6 +20,8 @@ user-provided substring in a user-provided word and outputs
 the index of the start of the second substring
 * **[chessboard.py](./Portfolio/chessboard.py)** - The chessboard function
 prints out alternating rows of 0s and 1s
+* **[spruce_tree.py](./Portfolio/spruce_tree.py)** - The program uses two functions, line and spruce, to output a centered
+spruce tree diagram
 
 ## Tech & Tools
 * **Language:** Python 3.x
