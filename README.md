@@ -22,6 +22,8 @@ the index of the start of the second substring
 prints out alternating rows of 0s and 1s
 * **[spruce_tree.py](./Portfolio/spruce_tree.py)** - The program uses two functions, line and spruce, to output a centered
 spruce tree diagram
+* **[longest_words_in_list.py](./Portfolio/longest_words_in_list.py)** - The program uses a function, all_the_longest,
+to return a new list of the all the longest strings in the original list
 
 ## Tech & Tools
 * **Language:** Python 3.x
