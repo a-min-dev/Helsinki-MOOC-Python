@@ -24,6 +24,10 @@ prints out alternating rows of 0s and 1s
 spruce tree diagram
 * **[longest_words_in_list.py](./Portfolio/longest_words_in_list.py)** - The program uses a function, all_the_longest,
 to return a new list of the all the longest strings in the original list
+* **[most_common_character.py](./Portfolio/most_common_character.py)** - The program finds the most
+commonly occuring letter in a string.  In the case of a tie,
+the character that appears earliest in the string breaks
+the tie as the most common character
 
 ## Tech & Tools
 * **Language:** Python 3.x
