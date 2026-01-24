@@ -28,6 +28,10 @@ to return a new list of the all the longest strings in the original list
 commonly occuring letter in a string.  In the case of a tie,
 the character that appears earliest in the string breaks
 the tie as the most common character
+* **[classroom_grade_statistics.py](./Portfolio/classroom_grade_statistics.py)** - The program outputs
+the grade statistics for a classroom, including the classroom average, the percentage of students who
+pass the course, and a histogram of student grades.  The program uses multiple functions to help
+calculate the necessary statistics
 
 ## Tech & Tools
 * **Language:** Python 3.x
