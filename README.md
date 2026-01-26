@@ -32,6 +32,9 @@ the tie as the most common character
 the grade statistics for a classroom, including the classroom average, the percentage of students who
 pass the course, and a histogram of student grades.  The program uses multiple functions to help
 calculate the necessary statistics
+* **[sudoku_grid.py](./Portfolio/sudoku_grid.py)** - The program checks the validity of a sudoku grid, in which the
+numbers 1-9 should appear at most once in each row, column,
+and 3x3 block within the 9x9 sudoku grid
 
 ## Tech & Tools
 * **Language:** Python 3.x
