@@ -8,6 +8,9 @@ The search and add functions are created to either search
 for the value associated with a key, or name, or 
 add a new key, name, and value, phone number, to the
 dictionary.
+
+The phone directory allows a person to have multiple phone
+numbers.
 """
 
 # The search phone looks for a key, a person's name, in the dictionary
@@ -15,16 +18,19 @@ dictionary.
 def search(phone_directory: dict):
     name = input("name: ")
     if name in phone_directory:
-        print(phone_directory[name])
+        for phone_number in phone_directory[name]:
+            print(phone_number)
     else:   
         print("no number")
 
 # The add function adds a key, a name, and associated value, a phone number
-# If the key is already in the dictionary, the phone number is overwritten
+# If the person is already in the dictionary, then the new phone number is added to the list
 def add(phone_directory: dict):
     name = input("name: ")
     phone_number = input("number: ")
-    phone_directory[name] = phone_number
+    if name not in phone_directory:
+        phone_directory[name] = []
+    phone_directory[name].append(phone_number)
     print("ok!")
 
 # The user is prompted to selection from 3 options:  search, add, or quit
