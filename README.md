@@ -39,6 +39,10 @@ and 3x3 block within the 9x9 sudoku grid
 for a phone number in a phone directory, to add a name and phone number in the phone directory, or quit the program.
 The phone directory uses a dictionary with keys representing names and values representing associated phone numbers.
 A person is allowed to have multiple phone numbers
+* **[student_database.py](./Portfolio/student_database.py)** - The program creates a student base,
+which currently stores a student's name and the student's corresponding completed courses and best
+grades received in the course.  The summary function prints out statistics which includes which
+students has completed the most courses and which student has the best GPA
 
 ## Tech & Tools
 * **Language:** Python 3.x
