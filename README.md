@@ -48,6 +48,11 @@ the first CSV file has student IDS and student names, the second CSV file has st
 and the number of exercises a student has completed each week, and the third CSV file has
 student IDs and the exam scores for each student.  The name of a student, exercise scores, 
 exam scores, total points earned, and final grades are printed under a formatted header
+* **[spellchecker.py](./Portfolio/spellchecker/spellchecker.py)** - The program asks the user to type in
+any sentence.  The words in the user input are then check
+against a file containing words that are spelled correctly.  If the user has misspelled a word, then the
+misspelled word is placed between two asterisks in 
+a printed output
 
 ## Tech & Tools
 * **Language:** Python 3.x
