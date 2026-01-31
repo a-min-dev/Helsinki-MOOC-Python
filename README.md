@@ -53,6 +53,9 @@ any sentence.  The words in the user input are then check
 against a file containing words that are spelled correctly.  If the user has misspelled a word, then the
 misspelled word is placed between two asterisks in 
 a printed output
+* **[diary.py](./Portfolio/diary.py)** - The program
+allows the user to write a new entry into a diary
+or read the previous entries
 
 ## Tech & Tools
 * **Language:** Python 3.x
