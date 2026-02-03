@@ -56,6 +56,9 @@ a printed output
 * **[diary.py](./Portfolio/diary.py)** - The program
 allows the user to write a new entry into a diary
 or read the previous entries
+* **[error_handling.py](./Portfolio/error_handling.py)** - The program deals with error handling, where a
+user is asked and expected to type in a valid
+integer between a lower bound and an upper bound
 
 ## Tech & Tools
 * **Language:** Python 3.x
