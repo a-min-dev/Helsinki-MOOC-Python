@@ -56,9 +56,9 @@ a printed output
 * **[diary.py](./Portfolio/diary.py)** - The program
 allows the user to write a new entry into a diary
 or read the previous entries
-* **[error_handling.py](./Portfolio/error_handling.py)** - The program deals with error handling, where a
-user is asked and expected to type in a valid
-integer between a lower bound and an upper bound
+* **[rider_validation.py](./Portfolio/rider_validation.py)** - The program creates a roller coaster entry kiosk for a major theme park.  The ride attendant shall
+enter a rider's age and height, and if the rider does
+not meet the necessary requirements, the guest shall not be permitted onto the attraction
 
 ## Tech & Tools
 * **Language:** Python 3.x
