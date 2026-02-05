@@ -59,6 +59,8 @@ or read the previous entries
 * **[rider_validation.py](./Portfolio/rider_validation.py)** - The program creates a roller coaster entry kiosk for a major theme park.  The ride attendant shall
 enter a rider's age and height, and if the rider does
 not meet the necessary requirements, the guest shall not be permitted onto the attraction
+* **[recipe_search.py](./Portfolio/recipe_search/recipe_search.py)** - The program allows a user to search for recipes
+by recipe names, preparation times, or ingredients used in the recipes
 
 ## Tech & Tools
 * **Language:** Python 3.x
