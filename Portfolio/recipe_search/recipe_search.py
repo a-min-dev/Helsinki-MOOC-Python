@@ -85,3 +85,13 @@ def search_by_ingredient(filename: str, ingredient: str):
                 break
         
     return recipe_ingredients
+
+
+def main():
+    cake_recipes = search_by_name("recipes1.txt", "cake")
+
+    for recipe in cake_recipes:
+        print(recipe)
+
+if __name__ == "__main__":
+    main()
