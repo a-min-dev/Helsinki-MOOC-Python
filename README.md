@@ -55,6 +55,9 @@ enter a rider's age and height, and if the rider does
 not meet the necessary requirements, the guest shall not be permitted onto the attraction
 * **[recipe_search.py](./Portfolio/recipe_search/recipe_search.py)** - The program allows a user to search for recipes
 by recipe names, preparation times, or ingredients used in the recipes
+* **[city_bikes.py](./Portfolio/city_bikes/city_bikes.py)** - The program uses helper functions to
+determine the two city bike stations with the greatest distance between the stations (data is for
+city bike stations in Helsinki, Finland)
 
 ## Tech & Tools
 * **Language:** Python 3.x
