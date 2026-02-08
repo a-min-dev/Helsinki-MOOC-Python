@@ -37,11 +37,10 @@ A person is allowed to have multiple phone numbers
 which currently stores a student's name and the student's corresponding completed courses and best
 grades received in the course.  The summary function prints out statistics which includes which
 students has completed the most courses and which student has the best GPA
-* **[course_grading.py](./Portfolio/course_grading/course_grading.py)** - The program asks the user for three files:
+* **[course_grading.py](./Portfolio/course_grading/course_grading.py)** - The program asks the user for four files:
 the first CSV file has student IDS and student names, the second CSV file has student IDs
-and the number of exercises a student has completed each week, and the third CSV file has
-student IDs and the exam scores for each student.  The name of a student, exercise scores, 
-exam scores, total points earned, and final grades are printed under a formatted header
+and the number of exercises a student has completed each week, the third CSV file has
+student IDs and the exam scores for each student, and the fourth is a text file with course name and number of credit hours.  Course information and student statistics, including final grades, are written to a .csv file and a .txt file
 * **[spellchecker.py](./Portfolio/spellchecker/spellchecker.py)** - The program asks the user to type in
 any sentence.  The words in the user input are then check
 against a file containing words that are spelled correctly.  If the user has misspelled a word, then the
