@@ -57,6 +57,7 @@ by recipe names, preparation times, or ingredients used in the recipes
 * **[city_bikes.py](./Portfolio/city_bikes/city_bikes.py)** - The program uses helper functions to
 determine the two city bike stations with the greatest distance between the stations (data is for
 city bike stations in Helsinki, Finland)
+* **[separate_characters.py](./Portfolio/separate_characters.py)** - The program separates a string of characters into three parts:  one part consisting of only ascii letters, the second part consisting of only punctuation, and the third part containing all other characters, including whitespace
 
 ## Tech & Tools
 * **Language:** Python 3.x
