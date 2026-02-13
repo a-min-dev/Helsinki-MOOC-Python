@@ -57,8 +57,6 @@ by recipe names, preparation times, or ingredients used in the recipes
 determine the two city bike stations with the greatest distance between the stations (data is for
 city bike stations in Helsinki, Finland)
 * **[separate_characters.py](./Portfolio/separate_characters.py)** - The program separates a string of characters into three parts:  one part consisting of only ascii letters, the second part consisting of only punctuation, and the third part containing all other characters, including whitespace
-* **[dice_roller.py](./Portfolio/dice_roller.py)** - The program is intended for games that may be played with
-non-traditional 6-sided dice.  With the use of two functions, a user can roll 2 dice any number of times, and the program will determine the number of times the first die wins, the number of times the second die wins, and the number of ties
 * **[json_files.py](./Portfolio/json_files/json_files.py)** - The program contains a function which
 reads a JSON file, then prints out information about people, including the person's name, age,
 and hobbies
