@@ -62,6 +62,7 @@ non-traditional 6-sided dice.  With the use of two functions, a user can roll 2 
 * **[json_files.py](./Portfolio/json_files/json_files.py)** - The program contains a function which
 reads a JSON file, then prints out information about people, including the person's name, age,
 and hobbies
+* **[valid_id.py](./Portfolio/valid_id.py)** - The program checks to see if a user's Finnish Personal Identity Code is valid by checking if the birthdate is valid and if a control character is valid
 
 ## Tech & Tools
 * **Language:** Python 3.x
