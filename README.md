@@ -7,7 +7,6 @@ This respository contains my progress through the University of Helsinki's Pytho
 *These selections demonstrate specific logical milestones:*
 
 * **[gift_tax_calculator.py](./Portfolio/gift_tax_calculator.py)** - Tiered tax bracket logic and formatted rounding 
-* **[next_leap_year.py](./Portfolio/next_leap_year.py)** - While loop testing Boolean conditions with nested conditionals
 * **[ui_frame_generator.py](./Portfolio/ui_frame_generator.py)** - Creates a frame
 around a user-inputted string printed
 in the center of the frame
