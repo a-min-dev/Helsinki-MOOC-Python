@@ -60,6 +60,7 @@ city bike stations in Helsinki, Finland)
 reads a JSON file, then prints out information about people, including the person's name, age,
 and hobbies
 * **[valid_id.py](./Portfolio/valid_id.py)** - The program checks to see if a user's Finnish Personal Identity Code is valid by checking if the birthdate is valid and if a control character is valid
+* **[shopping_list.py](./Portfolio/shopping_list.py)** - The program includes a ShoppingList class with several methods, such as a method to add an item and the the number of units associated with the item to a shopping list.  The program also includes a function to determine the total number of units in a shopping list
 
 ## Tech & Tools
 * **Language:** Python 3.x
