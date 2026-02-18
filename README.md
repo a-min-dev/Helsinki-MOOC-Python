@@ -14,8 +14,6 @@ user-provided character in a user-provided word
 * **[find_second_occurrence.py](./Portfolio/find_second_occurrence.py)** - Finds the second occurrence of a
 user-provided substring in a user-provided word and outputs
 the index of the start of the second substring
-* **[spruce_tree.py](./Portfolio/spruce_tree.py)** - The program uses two functions, line and spruce, to output a centered
-spruce tree diagram
 * **[most_common_character.py](./Portfolio/most_common_character.py)** - The program finds the most
 commonly occuring letter in a string.  In the case of a tie,
 the character that appears earliest in the string breaks
