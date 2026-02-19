@@ -9,8 +9,6 @@ This respository contains my progress through the University of Helsinki's Pytho
 * **[ui_frame_generator.py](./Portfolio/ui_frame_generator.py)** - Creates a frame
 around a user-inputted string printed
 in the center of the frame
-* **[substring_extractor.py](./Portfolio/substring_extractor.py)** - Finds all substrings of length 3 that start with a
-user-provided character in a user-provided word
 * **[find_second_occurrence.py](./Portfolio/find_second_occurrence.py)** - Finds the second occurrence of a
 user-provided substring in a user-provided word and outputs
 the index of the start of the second substring
