@@ -35,8 +35,6 @@ students has completed the most courses and which student has the best GPA
 the first CSV file has student IDS and student names, the second CSV file has student IDs
 and the number of exercises a student has completed each week, the third CSV file has
 student IDs and the exam scores for each student, and the fourth is a text file with course name and number of credit hours.  Course information and student statistics, including final grades, are written to a .csv file and a .txt file
-* **[dictionary_file.py](./Portfolio/dictionary_file.py)** - The program
-allows the user to add a new entry to a Finnish:English dictionary and search by keyword for an entry in the dictionary
 * **[rider_validation.py](./Portfolio/rider_validation.py)** - The program creates a roller coaster entry kiosk for a major theme park.  The ride attendant shall
 enter a rider's age and height, and if the rider does
 not meet the necessary requirements, the guest shall not be permitted onto the attraction
