@@ -49,7 +49,7 @@ and hobbies
 * **[valid_id.py](./Portfolio/valid_id.py)** - The program checks to see if a user's Finnish Personal Identity Code is valid by checking if the birthdate is valid and if a control character is valid
 * **[shopping_list.py](./Portfolio/shopping_list.py)** - The program includes a ShoppingList class with several methods, such as a method to add an item and the the number of units associated with the item to a shopping list.  The program also includes a function to determine the total number of units in a shopping list
 * **[decreasing_counter.py](./Portfolio/decreasing_counter.py)** - The program defines a new class, DecreasingCounter.  The class definition includes several methods, including one to decrease the counter, reset the counter, and one to print the value of the counter
-* **[lunchcard.py](./Portfolio/decreasing_counter.py)** - The program defines a new class, LunchCard.  The class definition includes several methods, including several to subtract the prices of meals and one to deposit money to a student's meal card
+* **[lunchcard.py](./Portfolio/lunchcard.py)** - The program defines a new class, LunchCard.  The class definition includes several methods, including several to subtract the prices of meals and one to deposit money to a student's meal card
 
 ## Tech & Tools
 * **Language:** Python 3.x
