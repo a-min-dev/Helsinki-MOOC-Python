@@ -6,9 +6,6 @@ This respository contains my progress through the University of Helsinki's Pytho
 ## Featured Portfolio
 *These selections demonstrate specific logical milestones:*
 
-* **[ui_frame_generator.py](./Portfolio/ui_frame_generator.py)** - Creates a frame
-around a user-inputted string printed
-in the center of the frame
 * **[classroom_grade_statistics.py](./Portfolio/classroom_grade_statistics.py)** - The program outputs
 the grade statistics for a classroom, including the classroom average, the percentage of students who
 pass the course, and a histogram of student grades.  The program uses multiple functions to help
