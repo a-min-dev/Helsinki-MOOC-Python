@@ -38,6 +38,7 @@ and hobbies
 * **[decreasing_counter.py](./Portfolio/decreasing_counter.py)** - The program defines a new class, DecreasingCounter.  The class definition includes several methods, including one to decrease the counter, reset the counter, and one to print the value of the counter
 * **[lunchcard_and_paymentterminal.py](./Portfolio/lunchcard_and_paymentterminal.py)** - The program defines two classes, LunchCard and PaymentTerminal.  The LunchCard class definition includes several methods, including one to subtract from the available balance on the lunchard and one to deposit money to the lunchcard.  The PaymentTerminal class definition includes several methods to handle cash and lunchcard payments for meals while keeping track of the total number of meals sold
 * **[fastest_car.py](./Portfolio/fastest_car.py)** - The program defines a new class, Car.  The program includes a function, fastest_car, which takes a list of Car objects as its argument and returns the make of the fastest car
+* **[service_charge.py](./Portfolio/service_charge.py)** - The program defines a new class, BankAccount, which models a typical bank account where one can deposit money or withdraw from an available balance.  The class definition includes a private method which charges a 1% fee for each deposit or withdrawal
 
 
 ## Tech & Tools
