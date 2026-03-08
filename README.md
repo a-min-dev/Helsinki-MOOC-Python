@@ -1,7 +1,7 @@
 # Helsinki MOOC Python Programming - AI Journey
 ## University of Helsinki 2026
 
-This respository contains my progress through the University of Helsinki's Python Programming MOOC
+This respository contains my progress through the University of Helsinki's Python Programming MOOC 2026
 
 ## Featured Portfolio
 *These selections demonstrate specific logical milestones:*
