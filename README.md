@@ -39,7 +39,7 @@ and hobbies
 * **[service_charge.py](./Portfolio/service_charge.py)** - The program defines a class, BankAccount, which models a typical bank account where one can deposit money or withdraw from an available balance.  The class definition includes a private method which charges a 1% fee for each deposit or withdrawal transaction
 * **[string_helper.py](./Portfolio/string_helper/string_helper.py)** - The program contains a module, string_helper, which includes several functions, such as one to swap the cases of letters, one to split a string into two parts, and one to remove any special characters from a parameter string
 * **[filter_forbidden.py](./Portfolio/filter_forbidden.py)** - The program contains a single function, filter_forbidden, which takes two strings as its arguments:  the string, forbidden, includes characters that should be filtered out of a string that is to be returned by the function.  The function uses a one-line list comprehension statement to return a new string in which forbidden characters are removed
-* **[add_numbers_to_list.py](./Portfolio/add_numbers_to_list.py)** - The program uses recursion to add numbers to a list until the length of the list is a multiple of 5
+* **[add_numbers_to_list.py](./Portfolio/add_numbers_to_list.py)** - The program defines a function which uses recursion to add numbers to a list until the length of the list is a multiple of 5
 
 
 ## Tech & Tools
