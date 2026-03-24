@@ -12,7 +12,7 @@ pass the course, and a histogram of student grades.  The program uses multiple f
 calculate the necessary statistics
 * **[sudoku_grid.py](./Portfolio/sudoku_grid.py)** - The program checks the validity of a sudoku grid, in which the
 numbers 1-9 should appear at most once in each row, column,
-and 3x3 block within the 9x9 sudoku grid
+and 3x3 block within a larger 9x9 sudoku grid
 * **[phone_book.py](./Portfolio/phone_book.py)** - The program prompts the user to select from 3 options:  to search
 for a phone number in a phone directory, to add a name and phone number in the phone directory, or quit the program.
 The phone directory uses a dictionary with keys representing names and values representing associated phone numbers.
