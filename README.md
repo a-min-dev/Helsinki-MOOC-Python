@@ -1,7 +1,7 @@
 # Helsinki MOOC Python Programming - AI Journey
 ## University of Helsinki 2026
 
-This respository contains my progress through the University of Helsinki's Python Programming MOOC 2026
+This respository contains my progress through the University of Helsinki's Python Programming MOOC 2026, from January 2026 to present
 
 ## Featured Portfolio
 *These selections demonstrate logical milestones gained throughout the Helsinki MOOC Python & Object Oriented Programming courses:*
