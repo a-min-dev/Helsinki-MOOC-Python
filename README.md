@@ -45,5 +45,5 @@ and hobbies
 
 ## Tech & Tools
 * **Language:** Python 3.x
-* **Environment:** VS Code + TMC (Test My Code) Extension
+* **Environment:** VS Code + TMC(Test My Code) Extension
 * **Version Control:** Git & GitHub
