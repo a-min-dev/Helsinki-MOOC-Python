@@ -41,7 +41,7 @@ and hobbies
 * **[filter_forbidden.py](./Portfolio/filter_forbidden.py)** - The program contains a single function, filter_forbidden, which takes two strings as its arguments:  the string, forbidden, includes characters that should be filtered out of a string that is to be returned by the function.  The function uses a one-line list comprehension statement to return a new string in which forbidden characters are removed
 * **[add_numbers_to_list.py](./Portfolio/add_numbers_to_list.py)** - The program defines a function which uses recursion to add numbers to a list until the length of the list is a multiple of 5
 * **[course_records.py](./Portfolio/course_records.py)** - The program includes an interactive application where a student can keep track of individual academic progress, including information on completed courses, the assigned grades, and basic statistics, such as grade point average and total completed credits
-* **[ratings.py](./Portfolio/ratings.py)** - The program includes a single function, sort_by_ratings, which takes a list of dictionaries as its argument.  The dictionaries include metadata on TV shows, and the function sorts the TV shows by ratings using a lambda function
+* **[ratings.py](./Portfolio/ratings.py)** - The program includes a single function, sort_by_ratings, which takes a list of dictionaries as its argument.  The dictionaries include metadata on TV shows, and the function sorts the TV shows by ratings using an anonymous lambda function
 
 
 ## Tech & Tools
