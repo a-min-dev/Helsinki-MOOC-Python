@@ -42,6 +42,7 @@ and hobbies
 * **[add_numbers_to_list.py](./Portfolio/add_numbers_to_list.py)** - The program defines a function,  which uses recursion, to add numbers to a list until the length of the list is a multiple of 5
 * **[course_records.py](./Portfolio/course_records.py)** - The program includes an interactive application where an individual can keep track of individual academic progress, including information on completed courses, the assigned grades, and basic statistics, such as grade point average and total completed credits
 * **[ratings.py](./Portfolio/ratings.py)** - The program includes a function, sort_by_ratings, which takes a list of dictionaries as its argument.  The dictionaries include metadata on TV shows, and the function sorts the TV shows by ratings using a lambda function
+* **[hockey_statistics.py](./Portfolio/hockey_stats/hockey_statistics.py)** - The program includes an application for reviewing NHL statistics for the 2019-2020 season.  The program works with JSON files, and after the file is provided, the user can examine statistics by selecting an appropriate command, such as searching by player name or searching for n number of players who were the top goal scorers for the season
 
 
 ## Tech & Tools
