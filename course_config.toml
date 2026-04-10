@@ -1003,3 +1003,7 @@ checksum = "628befa4aba8c8771f6d8d1ac1d33e5d"
 [exercises.part13-17_asteroids]
 id = 306404
 checksum = "50570f044e4587f37f18afdc09d532fb"
+
+[exercises.part14-01_own_game]
+id = 306255
+checksum = "af7622e8aa209f6f56e6e78c6c69e61f"
