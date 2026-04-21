@@ -45,6 +45,7 @@ and hobbies
 * **[hockey_statistics.py](./Portfolio/hockey_stats/hockey_statistics.py)** - The program includes an application for reviewing NHL statistics (data from 2019-2020 season).  The program works with JSON files, and after the file is provided, the user can examine statistics by selecting an appropriate command, such as searching by player name for individual player stats or searching for n number of players who were the top goal scorers for the entire season
 * **[robot_animation.py](./Portfolio/robot_animation/robot_animation.py)** - The program utilizes the pygame module to create an animation of a robot image rounding the perimeter of a window until the user closes the window
 * **[robot_invasion.py](./Portfolio/robot_invasion/robot_invasion.py)** - The program utilizes the pygame module to create an animation of random robots falling from the sky (the top of the screen) to the ground (the bottom of the screen).  Once the robots hit the ground, the robots move to the left or to the right until the robot moves off the screen's display
+* **[analog_clock.py](./Portfolio/analog_clock.py)** - The program utilizes the pygame module to create and display an analog clock with moving second, minute, and hour hands showing the current system time
 
 
 ## Tech & Tools
