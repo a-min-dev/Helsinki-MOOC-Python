@@ -1,7 +1,7 @@
 # Helsinki MOOC Python Programming - Python Programming, Data Science + AI Journey
 ## University of Helsinki 2026
 
-This respository outlines my progress through the University of Helsinki's Python Programming MOOC 2026 from January 2026 to April 2026 (Parts 1 - 13 completed).
+This respository outlines my progress through the University of Helsinki's Python Programming MOOC 2026 from January 2026 to April 2026 (Parts 1 - 13 completed).  Next, data science concepts, such as NumPy, are explored.
 
 ## Featured Portfolio
 *The following selections demonstrate logical milestones achieved while completing the exercises outlined in the Helsinki MOOC Python & Object Oriented Programming courses:*
