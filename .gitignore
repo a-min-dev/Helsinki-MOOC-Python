@@ -19,7 +19,7 @@ Thumbs.db
 # --- Distribution / Data ---
 *.log
 *.sqlite3
-
+data_science_path/
 test/
 tmc/
 .tmcproject.json
