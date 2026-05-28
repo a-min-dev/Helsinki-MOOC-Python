@@ -25,7 +25,7 @@ students has completed the most courses and which student has the best GPA
 the first CSV file has student IDS and student names, the second CSV file has student IDs
 and the number of exercises a student has completed each week, the third CSV file has
 student IDs and the exam scores for each student, and the fourth is a text file with course name and number of credit hours.  Course information and student statistics, including final grades, are written to a .csv file and a .txt file
-* **[recipe_search.py](./Portfolio/recipe_search/recipe_search.py)** - The program allows a user to search for recipes
+* **[recipe_search.py](./Portfolio/recipe_search/recipe_search.py)** - The program allows a user to search for recipes in a database
 by recipe names, preparation times, or ingredients used in the recipes
 * **[city_bikes.py](./Portfolio/city_bikes/city_bikes.py)** - The program uses helper functions to
 determine the two city bike stations with the greatest distance between city bike stations in Helsinki, Finland
