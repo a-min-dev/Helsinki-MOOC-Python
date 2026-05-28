@@ -28,7 +28,7 @@ student IDs and the exam scores for each student, and the fourth is a text file 
 * **[recipe_search.py](./Portfolio/recipe_search/recipe_search.py)** - The program allows a user to search for recipes in a database
 by recipe names, preparation times, or ingredients used in the recipes
 * **[city_bikes.py](./Portfolio/city_bikes/city_bikes.py)** - The program uses helper functions to
-determine the two city bike stations with the greatest distance between city bike stations in Helsinki, Finland
+determine the two city bike stations with the greatest distance between them in Helsinki, Finland
 * **[json_files.py](./Portfolio/json_files/json_files.py)** - The program contains a function which
 reads a JSON file, then prints out information about a person, including the person's name, age,
 and hobbies
