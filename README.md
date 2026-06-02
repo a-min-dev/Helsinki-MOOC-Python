@@ -9,7 +9,7 @@ This respository outlines progress through the University of Helsinki's Python P
 * **[classroom_grade_statistics.py](./Portfolio/classroom_grade_statistics.py)** - The program outputs
 the grade statistics for a classroom, including the classroom average, the percentage of students who
 pass the course, and a histogram of student grades.  The program uses multiple functions to help
-calculate the necessary statistics
+calculate the necessary statistics to be output by the program
 * **[sudoku_grid.py](./Portfolio/sudoku_grid.py)** - The program checks the validity of a sudoku grid, in which the
 numbers 1-9 should appear only once in each row, column,
 and 3x3 block within a 9x9 sudoku grid
