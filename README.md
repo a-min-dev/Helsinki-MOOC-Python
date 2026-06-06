@@ -30,7 +30,7 @@ by recipe names, preparation times, or ingredients used in the recipes
 * **[city_bikes.py](./Portfolio/city_bikes/city_bikes.py)** - The program uses helper functions to
 determine the two city bike stations with the greatest distance between them in Helsinki, Finland
 * **[json_files.py](./Portfolio/json_files/json_files.py)** - The program contains a function which
-reads a JSON file;  then, the program prints out information about a person, including the person's name, age,
+reads a JSON file then prints out information about a person, including the person's name, age,
 and hobbies
 * **[valid_id.py](./Portfolio/valid_id.py)** - The program checks to see if a user's FPIC, Finnish Personal Identity Code, is valid by checking if the birthdate is valid and if a control character is a known valid character
 * **[own_language.py](./Portfolio/string_helper/own_language.py)** - The program implements a programming language executor.  The function, run(program), takes a list containing program commands as its argument.  Each item in the list is a line of code in a program.  The function returns a list, which contains results from PRINT commands in the program.  In this scenario, the program will only be passed lines that are in the correct order
