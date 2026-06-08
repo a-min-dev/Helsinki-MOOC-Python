@@ -21,7 +21,7 @@ A person is allowed to have multiple phone numbers
 which currently stores a student's name and the student's corresponding completed courses and best
 grades received in the course.  The summary function prints out statistics which includes which
 students has completed the most courses and which student has the best GPA
-* **[course_grading.py](./Portfolio/course_grading/course_grading.py)** - The program asks the user for four files:
+* **[course_grading.py](./Portfolio/course_grading/course_grading.py)** - The program asks the user for four CSV files:
 the first CSV file has student IDS and student names, the second CSV file has student IDs
 and the number of exercises a student has completed each week, the third CSV file has
 student IDs and the exam scores for each student, and the fourth is a text file with course name and number of credit hours.  Course information and student statistics, including final grades, are written to a .csv file and a .txt file
