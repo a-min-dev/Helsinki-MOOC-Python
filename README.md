@@ -13,7 +13,7 @@ calculate the necessary statistics to be output by the program
 * **[sudoku_grid.py](./Portfolio/sudoku_grid.py)** - The program checks the validity of a sudoku grid, in which the
 numbers 1-9 should appear only once in each row, column,
 and 3x3 block within a 9x9 sudoku grid
-* **[phone_book.py](./Portfolio/phone_book.py)** - The program prompts the user to select from 3 options:  search
+* **[phone_book.py](./Portfolio/phone_book.py)** - The program prompts a user to select from 3 options:  search
 for a phone number in a phone directory, add a name and phone number to the phone directory database, or quit the program.
 The phone directory uses a dictionary with keys representing names and values representing associated phone numbers.
 A person is allowed to have multiple phone numbers
