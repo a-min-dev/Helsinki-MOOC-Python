@@ -4,7 +4,7 @@
 This respository outlines completed progress through the University of Helsinki's Python Programming MOOC 2026 (January 2026 to April 2026)
 
 ## Featured Portfolio Folder
-*The following selections demonstrate milestones achieved while completing exercises and projects outlined in the Helsinki MOOC Python & Object Oriented Programming courses (currently working on curating/selecting most relevant projects):*
+*The following selections demonstrate milestones achieved while completing exercises and projects outlined in the Helsinki MOOC Python & Object Oriented Programming courses (working on curating/selecting most relevant projects):*
 
 * **[classroom_grade_statistics.py](./Portfolio/classroom_grade_statistics.py)** - The program outputs
 the grade statistics for a classroom, including the classroom average, the percentage of students who
